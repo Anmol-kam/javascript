@@ -43,7 +43,7 @@
 //     console.log(bag);
 // }
 
-5
+// 5
 
 // for(i=1; i<=5; i++){
 //     bag=""
@@ -100,11 +100,46 @@
 // }
 
 
-8
-for(i=5; i<=i; i--){
-    bag=""
-    for(j=i; j>=1; j--){
-        bag=bag+j
-    }
-    console.log(bag);
-}
+// 8
+// for(i=5; i<=i; i--){
+//     bag=""
+//     for(j=i; j>=1; j--){
+//         bag=bag+j
+//     }
+//     console.log(bag);
+// }
+
+
+// 9
+// let n=5;
+
+// for(i=1; i<=n;i++){
+//   bag ="";
+//   for(j=1; j<=n; j++){
+//      if( i===1|| i===n ||j===1 || j===n){
+//         bag=bag+"*";
+//      }
+//      else{
+//         bag=bag+" ";
+//      }
+
+//   }
+//   console.log(bag);
+// }
+
+
+
+// 10
+// let row = 5;
+
+// for( i=1; i<=row; i++){
+//     bag="";
+//     for(let k=row; k>=i; k--){
+//         bag=bag+" ";
+//     }
+//     for ( let j=1; j<=i; j++) {
+//         bag += "*";
+//     }
+//     console.log(bag);
+
+// }
